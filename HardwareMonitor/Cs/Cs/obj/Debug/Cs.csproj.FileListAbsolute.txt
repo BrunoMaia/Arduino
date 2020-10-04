@@ -1,0 +1,12 @@
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\bin\Debug\Cs.exe.config
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\bin\Debug\Cs.exe
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\bin\Debug\Cs.pdb
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\bin\Debug\OpenHardwareMonitorLib.dll
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Debug\Cs.csprojAssemblyReference.cache
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Debug\Cs.Form1.resources
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Debug\Cs.Properties.Resources.resources
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Debug\Cs.csproj.GenerateResource.cache
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Debug\Cs.csproj.CoreCompileInputs.cache
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Debug\Cs.csproj.CopyComplete
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Debug\Cs.exe
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Debug\Cs.pdb

@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "sketch": "nokia_tune.cpp",
+    "programmer": "AVR ISP",
+    "port": "COM4"
+}

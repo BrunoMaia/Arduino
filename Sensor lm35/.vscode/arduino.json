@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "sketch": "lm35.cpp",
+    "programmer": "ArduinoISP",
+    "port": "COM3"
+}
