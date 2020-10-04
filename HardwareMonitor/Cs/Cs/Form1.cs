@@ -89,6 +89,7 @@ namespace Cs
             }
             try
             {
+                port.Write("*");
                 float Temp_gabinete = Convert.ToSingle(port.ReadLine())/100;
                 textBox_gabinete.Text = Temp_gabinete.ToString() + " °C";
                 textBox_cpu.Text = Convert.ToString(Temp_cpu) + " °C";

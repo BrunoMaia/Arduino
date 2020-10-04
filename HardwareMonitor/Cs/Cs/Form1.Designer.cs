@@ -97,6 +97,7 @@
             // 
             this.combo_intervalo.FormattingEnabled = true;
             this.combo_intervalo.Items.AddRange(new object[] {
+            "500",
             "1000",
             "1500",
             "2000",

@@ -7,7 +7,12 @@ void setup(){
 }
 
 void loop(){
-    leitura = float (analogRead(LM35)* constante);
-    Serial.println(leitura);
-    delay(1000);
+    if (Serial.available()){
+        switch (Serial.read()){
+        case '*':
+            leitura = float (analogRead(LM35)* constante);
+            Serial.println(leitura);
+            break;
+        }
+    }
 }
