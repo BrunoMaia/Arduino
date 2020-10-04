@@ -99,7 +99,7 @@ namespace Cs
             {
                 timer1.Stop();
                 MessageBox.Show(ex.Message);
-                toolStripStatusLabel1.Text = "Arduino's not responding...";
+                toolStripStatusLabel1.Text = "Arduino não está respondendo";
                 port.Close();
                 combo_portaSerial.Enabled = true;
                 combo_intervalo.Enabled = true;
@@ -123,7 +123,7 @@ namespace Cs
                 notifyIcon1.Visible = true;
                 try
                 {
-                    notifyIcon1.ShowBalloonTip(500, "Arduino", toolStripStatusLabel1.Text, ToolTipIcon.Info);
+                    notifyIcon1.ShowBalloonTip(500, "Monitorando em segundo plano!", toolStripStatusLabel1.Text, ToolTipIcon.Info);
 
                 }
                 catch (Exception ex)

@@ -1,0 +1,11 @@
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\bin\Release\OpenHardwareMonitorLib.dll
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Release\Cs.Form1.resources
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Release\Cs.Properties.Resources.resources
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Release\Cs.csproj.GenerateResource.cache
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Release\Cs.csproj.CoreCompileInputs.cache
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Release\Cs.csproj.CopyComplete
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\bin\Release\HardwareMonitor.exe.config
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\bin\Release\HardwareMonitor.exe
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\bin\Release\HardwareMonitor.pdb
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Release\HardwareMonitor.exe
+F:\Estudos\Programming\Arduino\HardwareMonitor\Cs\Cs\obj\Release\HardwareMonitor.pdb
